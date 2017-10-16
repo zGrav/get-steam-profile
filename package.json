@@ -1,0 +1,15 @@
+{
+  "name": "get-steam-profile",
+  "version": "0.0.1",
+  "description": "gets a steam profile via SteamID64",
+  "main": "index.js",
+  "repository": "http://github.com/zGrav/get-steam-profile",
+  "author": "David Silva <zgrav@null.net>",
+  "license": "BSD 2-clause",
+  "private": false,
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+    "isomorphic-fetch": "^2.2.1",
+    "jest": "^21.2.1"
+  }
+}
